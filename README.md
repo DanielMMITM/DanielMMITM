@@ -1,20 +1,14 @@
 ### Hi there 👋
 
+Welcome to my Github page! I am Edgar and I'm currently finishing my Computer Systems Career at the Instituto Tecnológico de Morelia.
+I'm a passionate guy for my career and technology, I like to learn new things and I have an ambition about learn new technologies. Currently I'm doing a specialty on cybersecurity and sometimes I practice and learn on HackTheBox. On the other hand I'm also fascinating for develop software, these 2 things awakes my interests.
+
 ### 🪧 Contact with me:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DanielMMITM/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mm)
 [![Gmail](https://img.shields.io/badge/microsoftoutlook-darkblue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:edanielm21@hotmail.com)
 
-Welcome to my Github page! I am Edgar and I'm currently finishing my Computer Systems Career at the Instituto Tecnológico de Morelia.
-I'm a passionate guy for my career and technology, I like to learn new things and I have an ambition about learn new technologies. Currently I'm doing a specialty on cybersecurity and sometimes I practice and learn on HackTheBox. On the other hand I'm also fascinating for develop software, these 2 things awakes my interests.
-
 ### ⭐ Currently working on:
-
-
-### ✔️ Learned by myself a little of:
-* ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=#6DB33F)
-* ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)
-* ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
 
 #### :computer: Programming languages and tools i've worked with: 
 
@@ -33,10 +27,13 @@ I'm a passionate guy for my career and technology, I like to learn new things an
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
 
-<br />
+### ✔️ Learned by myself a little of:
+💠 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=#6DB33F)<br/>
+💠 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)<br/>
+💠 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)<br/>
 
 ### ☺️ On my free time I like to:
-💠Play videogames.
-💠Watch movies and series.
-💠Do exercise or play sports.
+💠Play videogames.<br/>
+💠Watch movies and series.<br/>
+💠Do exercise or play sports.<br/>
 💠Seek for a course.
