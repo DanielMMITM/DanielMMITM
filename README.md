@@ -31,7 +31,7 @@ Welcome to my Github page! I am Edgar and I am currently finishing my Computer S
 <br />
 
 ### 🧰 Tools:
-![Django](https://img.shields.io/badge/-django-000000?style=flat&logo=django&logoColor=#092E20)
+![Django](https://img.shields.io/badge/-django-000000?style=flat&logo=django&logoColor=darkgreen)
 ![Laravel](https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel&logoColor=#FF2D20)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
