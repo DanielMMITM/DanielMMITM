@@ -22,7 +22,7 @@ Welcome to my Github page! I am Edgar and I am currently finishing my Computer S
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=blue)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-csharp-000000?style=flat&logo=csharp&logoColor=purple)
+![JavaScript](https://img.shields.io/badge/-csharp-000000?style=flat&logo=csharp&logoColor=lightpurple)
 ![C#](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=blue)
