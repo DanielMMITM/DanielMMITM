@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Contact with me:
+### 🪧 Contact with me:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DanielMMITM/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mm)
 [![Gmail](https://img.shields.io/badge/microsoftoutlook-darkblue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:edanielm21@hotmail.com)
@@ -12,7 +12,6 @@ Welcome to my Github page! I am Edgar and I am currently finishing my Computer S
 * ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)
 * ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
 
-
 #### :computer: Programming languages: 
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=blue)
@@ -23,8 +22,6 @@ Welcome to my Github page! I am Edgar and I am currently finishing my Computer S
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=blue)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=green)
 
-<br />
-
 ### 🧰 Tools:
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=darkgreen)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=#FF2D20)
@@ -32,5 +29,3 @@ Welcome to my Github page! I am Edgar and I am currently finishing my Computer S
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
 
 <br />
-
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
