@@ -3,7 +3,7 @@
 ### Contact with me:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DanielMMITM/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mm)
-[![Gmail](https://img.shields.io/badge/microsoftoutlook-c14438?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![Gmail](https://img.shields.io/badge/microsoftoutlook-blue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:edanielm21@hotmail.com)
 
 Welcome to my Github page! I am Edgar and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
 
