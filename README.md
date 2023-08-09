@@ -8,18 +8,16 @@
 Welcome to my Github page! I am Edgar and I am currently finishing my Computer Systems Career at the Instituto Tecnológico de Morelia.
 
 ### ✔️ Learned by myself a little of:
-* ![Spring](https://img.shields.io/badge/-spring-000000?style=flat&logo=spring&logoColor=#6DB33F)
-* ![React](https://img.shields.io/badge/-react-000000?style=flat&logo=react&logoColor=#61DAFB)
-* ![Python](https://img.shields.io/badge/-python-000000?style=flat&logo=python&logoColor=#3776AB)
-
-
+* ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=#6DB33F)
+* ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)
+* ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
 
 
 #### :computer: Programming languages: 
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=blue)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-csharp-000000?style=flat&logo=csharp&logoColor=violet)
+![JavaScript](https://img.shields.io/badge/-C#-000000?style=flat&logo=csharp&logoColor=violet)
 ![C#](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=blue)
@@ -28,8 +26,8 @@ Welcome to my Github page! I am Edgar and I am currently finishing my Computer S
 <br />
 
 ### 🧰 Tools:
-![Django](https://img.shields.io/badge/-django-000000?style=flat&logo=django&logoColor=darkgreen)
-![Laravel](https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel&logoColor=#FF2D20)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=darkgreen)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=#FF2D20)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
 
