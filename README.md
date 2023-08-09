@@ -12,12 +12,14 @@ Welcome to my Github page! I am Edgar and I am currently finishing my Computer S
 * ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)
 * ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
 
-#### :computer: Programming languages: 
+#### :computer: Programming languages i've worked with: 
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=blue)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=#A8B9CC)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![C#](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=csharp&logoColor=violet)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp&logoColor=violet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php&logoColor=#777BB4)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=blue)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=green)
