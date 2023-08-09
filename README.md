@@ -20,7 +20,7 @@ Welcome to my Github page! I am Edgar and I am currently finishing my Computer S
 
 #### :computer: Programming languages and tools: 
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=darkblue)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=blue)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-csharp-000000?style=flat&logo=csharp&logoColor=purple)
 ![C#](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
