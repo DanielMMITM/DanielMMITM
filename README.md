@@ -8,7 +8,10 @@ I'm a passionate guy for my career and technology, I like to learn new things an
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mm)
 [![Gmail](https://img.shields.io/badge/microsoftoutlook-darkblue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:edanielm21@hotmail.com)
 
-### ⭐ Currently working on:
+### 🌟 Currently working on:
+⭐ Finishing my Computer Systems Career.<br/>
+⭐ Finishing the Oracle Next Education program.<br/>
+⭐ Looking for an internship.<br/>
 
 #### :computer: Programming languages and tools i've worked with: 
 
@@ -28,12 +31,13 @@ I'm a passionate guy for my career and technology, I like to learn new things an
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
 
 ### ✔️ Learned by myself a little of:
-💠 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=#6DB33F)<br/>
-💠 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)<br/>
-💠 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)<br/>
+* ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=#6DB33F)
+* ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)
+* ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
 
 ### ☺️ On my free time I like to:
 💠Play videogames.<br/>
 💠Watch movies and series.<br/>
 💠Do exercise or play sports.<br/>
-💠Seek for a course.
+💠Seek for a course.<br/>
+💠Coding.
