@@ -7,16 +7,13 @@
 
 Welcome to my Github page! I am Edgar and I am currently finishing my Computer Systems Career at the Instituto Tecnológico de Morelia.
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Computer Systems Career. 
--  
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+### ✔️ Learned by myself a little of:
+* ![Spring](https://img.shields.io/badge/-spring-000000?style=flat&logo=spring&logoColor=#6DB33F)
+* ![React](https://img.shields.io/badge/-react-000000?style=flat&logo=react&logoColor=#61DAFB)
+* ![Python](https://img.shields.io/badge/-python-000000?style=flat&logo=python&logoColor=#3776AB)
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+
+
 
 #### :computer: Programming languages: 
 
