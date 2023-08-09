@@ -18,7 +18,7 @@ Welcome to my Github page! I am Edgar and I am currently finishing my Computer S
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
-#### :computer: Programming languages and tools: 
+#### :computer: Programming languages: 
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=blue)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
@@ -26,8 +26,13 @@ Welcome to my Github page! I am Edgar and I am currently finishing my Computer S
 ![C#](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=blue)
- 
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=green)
+
 <br />
+
+### 🧰 Tools:
+![Django](https://img.shields.io/badge/-django-000000?style=flat&logo=django&logoColor=#092E20)
+![Laravel](https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel&logoColor=##FF2D20)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
 
