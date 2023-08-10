@@ -4,9 +4,9 @@ Welcome to my Github page! I am Edgar and I'm currently finishing my Computer Sy
 I'm a passionate guy for my career and technology, I like to learn new things and I have an ambition about learn new technologies. Currently I'm doing a specialty on cybersecurity and sometimes I practice and learn on HackTheBox. On the other hand I'm also fascinating for develop software, these 2 things awakes my interests.
 
 ### 🪧 Contact with me:
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DanielMMITM/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mm)
-[![Outlook](https://img.shields.io/badge/Outlook-white?style=flat&logo=microsoftoutlook&logoColor=blue)](mailto:edanielm21@hotmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DanielMMITM/)
+[![Outlook](https://img.shields.io/badge/Outlook-blue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:edanielm21@hotmail.com)
 
 ### 🌟 Currently working on:
 ⭐ Finishing my Computer Systems Career.<br/>
