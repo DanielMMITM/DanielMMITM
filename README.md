@@ -15,14 +15,14 @@ I'm a passionate guy for my career and technology, I like to learn new things an
 
 #### :computer: Programming languages and tools I've worked with: 
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=blue)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=#00599C)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=#A8B9CC)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp&logoColor=violet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=#777BB4)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=blue)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=#1572B6e)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=green)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=darkgreen)
