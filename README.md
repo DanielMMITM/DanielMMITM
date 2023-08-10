@@ -13,7 +13,7 @@ I'm a passionate guy for my career and technology, I like to learn new things an
 ⭐ Finishing the Oracle Next Education program.<br/>
 ⭐ Looking for an internship.<br/>
 
-#### :computer: Programming languages and tools i've worked with: 
+#### :computer: Programming languages and tools I've worked with: 
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=blue)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=#A8B9CC)
