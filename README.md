@@ -6,7 +6,7 @@ I'm a passionate guy for my career and technology, I like to learn new things an
 ### 🪧 Contact with me:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DanielMMITM/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mm)
-[![Outlook](https://img.shields.io/badge/Outlook-darkblue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:edanielm21@hotmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-#0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:edanielm21@hotmail.com)
 
 ### 🌟 Currently working on:
 ⭐ Finishing my Computer Systems Career.<br/>
