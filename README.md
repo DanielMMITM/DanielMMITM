@@ -33,11 +33,11 @@ I'm a passionate guy for my career and technology, I like to learn new things an
 * ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=#6DB33F)
 * ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)
 * ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+
 ### ☺️ On my free time I like to:
 💠Play videogames.<br/>
 💠Watch movies and series.<br/>
 💠Do exercise or play sports.<br/>
 💠Seek for a course.<br/>
 💠Coding.
-
+<img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
