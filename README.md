@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hedythedev/hedythedev/master/assets/hedylibanner.png" alt="Hey, I'm Edgar [banner]" />
+<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 ### Hi there 👋
 Welcome to my Github page! I am Edgar and I'm currently finishing my Computer Systems Career at the Instituto Tecnológico de Morelia.
 I'm a passionate guy for my career and technology, I like to learn new things and I have an ambition about learn new technologies. Currently I'm doing a specialty on cybersecurity and sometimes I practice and learn on HackTheBox. On the other hand I'm also fascinating for develop software, these 2 things awakes my interests.
