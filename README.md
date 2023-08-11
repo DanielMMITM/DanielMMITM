@@ -1,5 +1,5 @@
+[![Header](https://github.com/DanielMMITM/DanielMMITM/raw/master/profile.gif)]
 ### Hi there 👋
-
 Welcome to my Github page! I am Edgar and I'm currently finishing my Computer Systems Career at the Instituto Tecnológico de Morelia.
 I'm a passionate guy for my career and technology, I like to learn new things and I have an ambition about learn new technologies. Currently I'm doing a specialty on cybersecurity and sometimes I practice and learn on HackTheBox. On the other hand I'm also fascinating for develop software, these 2 things awakes my interests.
 
@@ -41,3 +41,5 @@ I'm a passionate guy for my career and technology, I like to learn new things an
 💠Do exercise or play sports.<br/>
 💠Seek for a course.<br/>
 💠Coding.
+
+<img align='center' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
