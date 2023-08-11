@@ -40,4 +40,5 @@ I'm a passionate guy for my career and technology, I like to learn new things an
 💠Do exercise or play sports.<br/>
 💠Seek for a course.<br/>
 💠Coding.
+
 <img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
