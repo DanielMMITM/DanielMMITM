@@ -1,6 +1,6 @@
 ### Hi there 👋
 Welcome to my Github page! I am Edgar and I'm currently finishing my Computer Systems Career at the Instituto Tecnológico de Morelia.
-I'm a passionate guy for my career and technology, I like to learn new things and I have an ambition about learn new technologies. Currently I'm doing a specialty on cybersecurity and sometimes I practice and learn on HackTheBox. On the other hand I'm also fascinating for develop software, these 2 things awakes my interests.
+I'm a passionate guy for my career and technology, I like to learn new things and I have an ambition about learn new technologies. Currently I'm doing a specialty on cybersecurity and sometimes I practice and learn on HackTheBox. On the other hand I'm also fascinating for develop software, I really enjoy these fields.
 <br/><br/><img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 ### 🪧 Contact with me:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mm)
