@@ -30,7 +30,8 @@ I'm a passionate guy for my career and technology, I like to learn new things an
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
 
 ### ✔️ Learned by myself a little of:
-* ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=#6DB33F)
+
+* ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=springboot&logoColor=##6DB33F)
 * ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)
 * ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
 
