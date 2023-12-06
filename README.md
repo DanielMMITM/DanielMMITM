@@ -37,7 +37,7 @@ I'm a passionate guy for my career and technology, I like to learn new things an
 * ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=springboot&logoColor=##6DB33F)
 * ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)
 * ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
-* ![AWS](https://img.shields.io/badge/-amazonaws-000000?style=flat&logo=amazonaws&logoColor=#232F3E)
+* ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazonaws&logoColor=#232F3E)
 
 ### ☺️ On my free time I like to:
 💠Play videogames.<br/>
