@@ -24,6 +24,7 @@ I'm a passionate guy for my career and technology, I like to learn new things an
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=#777BB4)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=blue)
+![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass&logoColor=#CC6699)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=green)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=darkgreen)
