@@ -30,6 +30,8 @@ I'm a passionate guy for my career and technology, I like to learn new things an
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=darkgreen)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=#FF2D20)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab)
