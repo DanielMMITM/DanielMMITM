@@ -10,7 +10,7 @@ I'm a passionate guy for my career and technology, I like to learn new things an
 ### 🌟 Currently working on:
 ⭐ Finishing my Computer Systems Career.<br/>
 ✔️: Finishing the Oracle Next Education program.<br/>
-⭐ Looking for an internship.<br/>
+✔️ Looking for an internship.<br/>
 ⭐ Learning AWS.<br/>
 
 
