@@ -50,7 +50,7 @@ I'm a passionate guy for my career and technology, I like to learn new things an
 💠Play videogames.<br/>
 💠Learn something new.<br/>
 💠Do exercise or play sports.<br/>
-💠Coding.
-💠Watch movies and series.<br/>
+💠Coding.<br/>
+💠Watch movies and series.
 
 <img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
