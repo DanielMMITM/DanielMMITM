@@ -32,6 +32,7 @@ I'm a passionate guy for my career and technology, I like to learn new things an
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman) 
 
 ### ✔️ Learned by myself a little of:
