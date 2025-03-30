@@ -8,13 +8,10 @@ I'm a passionate guy about technology so I try to learn and read something new a
 [![Outlook](https://img.shields.io/badge/Outlook-blue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:edanielm21@hotmail.com)
 
 ### 🌟 Currently working on:
-✔️ Finishing my Computer Systems Career.<br/>
-✔️ Finishing the Oracle Next Education program.<br/>
-✔️ Looking for an internship.<br/>
 ⭐ Learning AWS.<br/>
+⭐ Chat app project.<br/>
 
-
-#### :computer: Programming languages and tools I've worked with: 
+#### 💻 Programming languages and tools I've worked with: 
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=blue)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=#A8B9CC)
@@ -36,15 +33,14 @@ I'm a passionate guy about technology so I try to learn and read something new a
 ![Github](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
-![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman) 
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=springboot&logoColor=##6DB33F)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)
+![Mongo](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=#47A248)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)
 
-### ✔️ Learned by myself a little of:
-
-* ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=springboot&logoColor=##6DB33F)
-* ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)
-* ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-* ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
-* ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazonaws&logoColor=#232F3E)
 
 ### ☺️ On my free time I like to:
 💠Play videogames.<br/>
