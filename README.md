@@ -1,6 +1,5 @@
 ### Hi there 👋
-Welcome to my Github page! I am Edgar and I'm a Computer Systems Engineer.
-I'm a passionate guy about technology so I try to learn and read something new about it everyday. I'm interested in cybersecurity but also in software development. 
+Welcome to my GitHub page! I'm Edgar, a Computer Systems Engineer. I'm passionate about cybersecurity and software development, always looking for new things to learn.
 <br/><br/><img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 ### 🪧 Contact with me:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mm)
