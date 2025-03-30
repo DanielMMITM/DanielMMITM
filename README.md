@@ -6,7 +6,7 @@ Welcome to my GitHub page! I'm Edgar, a Computer Systems Engineer. I'm passionat
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DanielMMITM/)
 [![Outlook](https://img.shields.io/badge/Outlook-blue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:edanielm21@hotmail.com)
 
-### 🌟 Currently working on:
+### 🌟 Get in touch with me:
 ⭐ Learning AWS.<br/>
 ⭐ Chat app project.<br/>
 
