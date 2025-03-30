@@ -1,12 +1,12 @@
 ### Hi there 👋
 Welcome to my GitHub page! I'm Edgar, a Computer Systems Engineer. I'm passionate about cybersecurity and software development, always looking for new things to learn.
 <br/><br/><img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-### 🪧 Contact with me:
+### 🪧 Get in touch with me:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mm)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DanielMMITM/)
 [![Outlook](https://img.shields.io/badge/Outlook-blue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:edanielm21@hotmail.com)
 
-### 🌟 Get in touch with me:
+### 🌟 Currently working on:
 ⭐ Learning AWS.<br/>
 ⭐ Chat app project.<br/>
 
