@@ -9,6 +9,8 @@ My name is Edgar Martinez and I'm a software developer with strong knowledge on 
 
 ## 🌟 Currently working on:
 ⭐ Learning AWS.<br/>
+⭐ Learn about DevOps.<br/>
+⭐ Learn about AI.<br/>
 
 
 ## 💻 Technologies I've worked with:
