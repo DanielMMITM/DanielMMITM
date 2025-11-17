@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my GitHub page! I'm Edgar, a Computer Systems Engineer. I'm passionate about cybersecurity and software development, always looking for new things to learn.
+My name is Edgar Martinez and I'm a software developer with strong knowledge on frontend and backend technologies. Always willing to accept new challenges and learn new technologies/tools and topics aiming to improve my skils.
 <br/><br/><img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 ## 🪧 Get in touch with me:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mm)
@@ -9,7 +9,6 @@ Welcome to my GitHub page! I'm Edgar, a Computer Systems Engineer. I'm passionat
 
 ## 🌟 Currently working on:
 ⭐ Learning AWS.<br/>
-⭐ Chat app project.<br/>
 
 
 ## 💻 Technologies I've worked with:
